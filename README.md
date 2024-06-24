@@ -35,7 +35,7 @@ Activation Rate: 56.5%.
 Delinquent Rate: 5.06%.
 
 * Export & Share Project:
-Exported the final dashboard and shared it in github and Linkedin (www.linkedin.com/in/rakesh-dharmagari).
+Exported the final dashboard and shared it in github (https://github.com/Rakesh9030/Credit_Card_Financial_Dashboard) and Linkedin (www.linkedin.com/in/rakesh-dharmagari).
 
 * Conclusion:
 This project demonstrates a seamless workflow from data extraction to real-time visualization, leveraging the power of MySQL and Power BI to provide actionable insights into credit card operations. Explore the repository to delve into the code, DAX queries, and detailed documentation. Contributions and suggestions are welcome!
