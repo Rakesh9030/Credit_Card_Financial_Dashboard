@@ -5,8 +5,8 @@ Extracted data from Excel CSV, imported it into SQL using the wizard, and analyz
 
 *Comprehensive Credit Card Weekly Dashboard
 *Project Objective:
-To develop a comprehensive credit card weekly dashboard
-that provides real-time insights into key performance metrics
+To develop a comprehensive credit card weekly dashboard which
+provides real-time insights into key performance metrics
 and trends, enabling stakeholders to monitor and analyze
 credit card operations effectively.
 
